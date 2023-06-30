@@ -1,6 +1,6 @@
 # **Katerina Manzhak**
 -------------------------------------------------
-![CV Manzhak Katerina](Manzhak.jpg "CV Manzhak Katerina")
+![CV Manzhak Katerina](Manzhak_.jpg "CV Manzhak Katerina")
 -------------------------------------------------
 ### *Contacts:*  
 ### mobile: +380503258226
@@ -10,8 +10,8 @@
 #### **Personal qualities:** Conscientious, communicative, determined, diligent, creative, eager to learn 
 -------------------------------------------------
 #### **Special skills:** 
-##### * *Language skills* – English - Upper-Intermediate, Russian - Native, Ukrainian – Native, German – Good reading and translating ability, French – basic knowleage.
-##### * *Computer literacy* – Microsoft Office, Archicad, Delphy, Html, Css, Photoshop, Illustrator, 1C:Enterprise, Social Media marketing.
+##### * *Language skills* – English - Upper-Intermediate, Russian - Native, Ukrainian – Native, German – Intermediate, French – basic knowleage.
+##### * *Computer literacy* – Microsoft Office, Archicad, Delphy, Html, Css, JS, Photoshop, Figma, Illustrator, 1C:Enterprise, Social Media marketing.
 ##### * *Driving license* – Category B
 ##### * *Hobbies* – foreign languages, programming, traveling
 -------------------------------------------------
@@ -33,7 +33,9 @@
 #### **Qualifications:**
 ##### * English Courses (Kharkiv English language school - YES) – 2017 – 2022 (C1-level)
 ##### * English Language Certificate (B2), 2018
+##### * German Language Certificate (B1), 2023
 ##### * Certificate, Course "Basics Web UI Development 2022", 2022
+##### * Certificate RS School, Course "JavaScript/Front-end. Stage 0", 2023
 -------------------------------------------------
 ##### Example of code from codewars:
 ##### const assert = require("chai").assert;
